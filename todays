@@ -1,0 +1,14 @@
+console.log("starting program");
+const start=1;
+const end=10;
+var sumss=sums(0,1);
+
+function sums(sum,i){
+    while(i<=10){
+        sum+=i;
+        i++;   
+  }
+  return sum;
+}
+
+console.log(sumss) ;
