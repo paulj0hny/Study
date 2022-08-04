@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>
+		Paul Johny
+	</title>
+</head>
+<body> 
+<script>
+	var img = new Image();
+ 	img.src = 'https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg'; 
+ 	document.body.appendChild(img);
+
+</script>
+<h1>Hello Everyone</h1>
+</body>
+</html>
