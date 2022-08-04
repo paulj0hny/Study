@@ -1,0 +1,14 @@
+console.log("starting program");
+console.log("Sum is ",sum());
+function sum(){
+
+const start=1;
+const end=10;
+var sum=0;
+
+for(var a=start;a<=10;a++){
+    sum=sum+a;
+}
+return sum;
+}
+console.log("ending program");
