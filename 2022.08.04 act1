@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>
+		Paul Johny
+	</title>
+</head>
+<body> 
+<table>
+		<tr>
+			<th>
+				<h1>Paul Johny</h1>
+			</th>
+			<th>
+				<img width=100 src="kerala.jpg" />
+			</th>
+		</tr>
+</table>
+</body>
+</html>
