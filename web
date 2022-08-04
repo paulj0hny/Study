@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-color: #ddd;
+}
+</style>
+<head>
+	<link rel="icon" href="google.png">
+	<title>
+		Paul Johny
+	</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<th>
+				<h1>Hello guys! Welcome to my page!!</h1>
+			</th>
+			<th>
+				<img width=100 src="kerala.jpg" />
+			</th>
+		</tr>
+	</table>
+</body>
+</html>
